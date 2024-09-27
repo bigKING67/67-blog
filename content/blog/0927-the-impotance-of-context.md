@@ -1,7 +1,8 @@
 ---
-title: 0927-Storytelling with 
+title: 0927-Storytelling with data
 date: 2024-09-27T07:53:01.507Z
 ---
+
 
 
 # chapter 1- the importance of context
